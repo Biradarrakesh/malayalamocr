@@ -1,0 +1,2 @@
+# malayalamocr
+MALAYALAM OCR SYSTEM
